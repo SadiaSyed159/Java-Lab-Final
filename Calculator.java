@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class Calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+//updated in future branch for merge operation 
+        System.out.println("Helo WOlrd");
         System.out.print("Pehla number darj karein: ");
         double num1 = scanner.nextDouble();
 
